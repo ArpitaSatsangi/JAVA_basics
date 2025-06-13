@@ -34,6 +34,18 @@ class Main {
                 System.out.print("#");
             }
         }
+
+
+
+
+        ArrayList<Integer> nums1 = new ArrayList<Integer>();
+        nums1.add(1);
+        nums1.add(2);
+        nums1.add(3);
+        
+        for(int i:nums1) {
+            System.out.println(i);
+        }
       
     }
 }
